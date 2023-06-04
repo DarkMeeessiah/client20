@@ -4,11 +4,7 @@
 #include <unistd.h>
 #include <string>
 using namespace std;
-/** @file console h
- *  @author Каратаева М.А.
- *  @version 1.0
- *  @date 25.12.2022
- *  @copyright ИБСТ ПГУ
+
  *  @brief Класс для реализации интерфейса комадной строки программы клиента
  */
 
